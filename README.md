@@ -36,7 +36,7 @@ Keterangan:
 
         - 2.b.a Welcome ${Name} Message, Display Avatar
 
-        - 2.b.b Edit Profile Button
+        - 2.b.b Edit Profile Button 
 
         - 2.b.c Sign Out Button
 
